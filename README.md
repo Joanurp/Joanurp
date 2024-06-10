@@ -15,8 +15,7 @@
 	<a href="https://github.com/Joanurp"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/573152752557"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.instagram.com/joanurpa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
-<a href="https://www.x.com/joanurpa/"><img src="https://img.shields.io/badge/x-%23E4405F.svg?style=plastic&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.x.com/joanurpa/"><img src="https://img.shields.io/badge/x-%23E4405F.svg?style=plastic&logo=x&logoColor=white" alt="Twitter"/></a>
 	
 	
 </p>
