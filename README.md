@@ -1,12 +1,7 @@
 <br><br>
 
-- :school: I am student Statistics in Universidad National Colombia Sede de La Paz.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+I am a statistics student with a strong interest in advanced regression models and the analysis of non-stationary stochastic processes. Always `learning new things`. I’m currently open for a new `job opportunity`.
+
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -14,7 +9,6 @@
 	<a href="mailto:joanurpa02@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Joanurp"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/573152752557"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.instagram.com/joanurpa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.x.com/joanurpa/"><img src="https://img.shields.io/badge/twitter-%23181717.svg?style=plastic&logo=x&logoColor=white" alt="Twitter"/></a>
 	
 	
