@@ -44,7 +44,9 @@ I am a statistics student with a strong interest in advanced regression models a
   &emsp;
   <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white">
+</a>
   &emsp;
   <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
   &emsp;
