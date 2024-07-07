@@ -24,8 +24,8 @@ I am a statistics student with a strong interest in advanced regression models a
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%23FF8C00.svg?style=plastic&logo=mathworks&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
@@ -45,8 +45,6 @@ I am a statistics student with a strong interest in advanced regression models a
 </a>
   &emsp;
   <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
 </br></br>
